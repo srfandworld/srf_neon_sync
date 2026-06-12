@@ -1,6 +1,7 @@
 # Working Group Template
 
-This repository is a template for ESIIL Working Groups.
+Do some changes here to test container in CyVerse!
+
 
 This template is designed as one connected system:
 
