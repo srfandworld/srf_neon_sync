@@ -11,7 +11,7 @@ As the working group progresses, the repository becomes the reproducible record 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
-![Placeholder image for the homepage overview][/assests/images/BIODIVERSITY.png]{ .homepage-hero }
+![Placeholder image for the homepage overview][/assets/images/BIODIVERSITY.jpg]{ .homepage-hero }
 
 --8<-- "_generated/slot_notes/hero.md"
 
