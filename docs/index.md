@@ -1,5 +1,5 @@
 # Home
-This is a template.
+srf_ESIIL_training.
 ## Working Group Title
 
 Working Group Title
